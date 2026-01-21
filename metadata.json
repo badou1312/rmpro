@@ -1,0 +1,7 @@
+{
+  "name": "RMPRO France",
+  "description": "Un TMS (Transport Management System) et ERP de classe professionnelle pour les entreprises de logistique françaises, avec suivi des KPI en temps réel, gestion de flotte et visualisation interactive des données.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
